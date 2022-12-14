@@ -18,3 +18,7 @@ Creation of a dashboard for a specific audience (teachers, parents or students) 
 [contributors-url]: https://github.com/clementmariebrisson/learning-analytics-open-dataset/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/clementmariebrisson/learning-analytics-open-dataset.svg?style=for-the-badge
 [forks-url]: https://github.com/clementmariebrisson/learning-analytics-open-dataset/network/members
+[stars-shield]: https://img.shields.io/github/stars/clementmariebrisson/learning-analytics-open-dataset.svg?style=for-the-badge
+[stars-url]: https://github.com/clementmariebrisson/learning-analytics-open-dataset/stargazers
+[issues-shield]: https://img.shields.io/github/issues/clementmariebrisson/learning-analytics-open-dataset.svg?style=for-the-badge
+[issues-url]: https://github.com/clementmariebrisson/learning-analytics-open-dataset/issues
